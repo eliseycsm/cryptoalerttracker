@@ -1,0 +1,5 @@
+node_modules
+backupcode.txt
+certs/ca-certificate.crt
+../googleIDs.txt
+.env

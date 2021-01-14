@@ -1,0 +1,10 @@
+.portfolio{
+    position: absolute;
+    top:30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255,255,255, 0.9 );
+    width: 90%;
+    margin-top: 3em;
+    padding: 2em;
+ }

@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "BNB",
+    "name": "BinanceCoin"
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin"
+  },
+  {
+    "symbol": "BCH",
+    "name": "BitcoinCash"
+  },
+  {
+    "symbol": "BSV",
+    "name": "BitcoinSV"
+  },
+  {
+    "symbol": "ADA",
+    "name": "Cardano"
+  },
+  {
+    "symbol": "LINK",
+    "name": "Chainlink"
+  },
+  {
+    "symbol": "ATOM2",
+    "name": "Cosmos"
+  },
+  {
+    "symbol": "CCXX",
+    "name": "CounosX"
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash"
+  },
+  {
+    "symbol": "EOS",
+    "name": "EOS"
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum"
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin"
+  },
+  {
+    "symbol": "XMR",
+    "name": "Monero"
+  },
+  {
+    "symbol": "XEM",
+    "name": "NEM"
+  },
+  {
+    "symbol": "NEO",
+    "name": "NEO"
+  },
+  {
+    "symbol": "DOT1",
+    "name": "Polkadot"
+  },
+  {
+    "symbol": "DOT2",
+    "name": "Polkadot"
+  },
+  {
+    "symbol": "XLM",
+    "name": "Stellar"
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether"
+  },
+  {
+    "symbol": "XTZ",
+    "name": "Tezos"
+  },
+  {
+    "symbol": "THETA",
+    "name": "THETA"
+  },
+  {
+    "symbol": "TRX",
+    "name": "TRON"
+  },
+  {
+    "symbol": "USDC",
+    "name": "USDCoin"
+  },
+  {
+    "symbol": "VET",
+    "name": "VeChain"
+  },
+  {
+    "symbol": "XRP",
+    "name": "XRP"
+  }
+ ]
