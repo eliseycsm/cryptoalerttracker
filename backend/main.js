@@ -428,7 +428,7 @@ const sendemail = async() => {
 }
 
 //repeat sendemail every 2mins **rmb to change to every hour
-const repeat = setInterval(sendemail, 1000 * 60 * 60)
+const repeat = setInterval(sendemail, 1000 * 60 *60)
 app.get('/stoprepeat', (req,resp) =>{
     clearInterval(repeat)
     resp.type('application/json')
